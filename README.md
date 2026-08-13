@@ -21,14 +21,6 @@ The model used is a **Random Forest Classifier** trained on the Titanic dataset,
 
 ---
 
-## Architecture
-
-> Replace the image path below after adding your architecture diagram to the repository.
-
-<p align="center">
-  <img src="assets/architecture.png" alt="Architecture Diagram" width="900">
-</p>
-
 ---
 
 ## Repository Structure
